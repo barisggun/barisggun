@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Barış Gün</h1>
+<h1 align="center">Hi 👋, I'm Barış</h1>
 <h3 align="center">A passionate junior backend developer from Istanbul</h3>
 
 - 📫 How to reach me **barisggun@gmail.com**
