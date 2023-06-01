@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">A passionate junior .NET developer from Istanbul</h3>
+<h1 align="center">Hi, I'm Barış</h1>
+<h3 align="center">A junior .NET developer from Istanbul</h3>
 
 - 📫 How to reach me **barisggun@gmail.com**
 
