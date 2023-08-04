@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Barış</h1>
-<h3 align="center">A junior .NET developer from Istanbul</h3>
+<h3 align="center">I'm 24 years old. I have always had an interest in software. I laid a solid foundation with the software training I received at Acunmedya Academy.
+I am trying to improve myself every day. I have a fast learner and strong communication skills.</h3>
 
 - 📫 How to reach me **barisggun@gmail.com**
 
