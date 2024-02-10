@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Barış</h1>
-<h3 align="center">24 yaşında, İstanbul merkezli bir Junior Backend Developer'ım. Acunmedya Akademi'de aldığım kapsamlı yazılım eğitimi sayesinde güçlü bir teknik altyapı oluşturdum. Şu anda .NET Core MVC ve Web API projeleri geliştiriyorum.Yazılım dünyasındaki yenilikleri takip ederek, birikimimi güncel tutuyorum. Ayrıca, projelerde yer alarak ve online kurslarla ilgili becerilerimi genişleterek kendimi sürekli geliştiriyorum</h3>
+<h3 align="center">24 years old, backend developer, 1 year experience, looking for .net developer job opportunities. #istanbul #netcore #oop #mvc #api #entityframework #mssql #mediatr #cqrs </h3>
 
 - 📫 How to reach me **barisggun@gmail.com**
+- My online projects: www.sinesozluk.com , www.benitaniyormusun.site
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
