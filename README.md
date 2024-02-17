@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Barış</h1>
-<h3 align="center">24 years old, backend developer, 1 year experience, looking for .net developer job opportunities. #istanbul #netcore #oop #mvc #api #entityframework #mssql #mediatr #cqrs </h3>
+<h3 align="center">backend developer, 1 year experience, looking for .net developer job opportunities. #istanbul #netcore #oop #mvc #api #entityframework #mssql #mediatr #cqrs </h3>
 
 - 📫 How to reach me **barisggun@gmail.com**
 - My online projects: www.sinesozluk.com , www.benitaniyormusun.site
