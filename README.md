@@ -1,8 +1,48 @@
-<h1 align="center">Hi, I'm Barış</h1>
-<h3 align="center">backend developer, 1 year experience, looking for .net developer job opportunities. #istanbul #c# #netcore #oop #mvc #api #entityframework #msSql #mediatr #cqrs #onionArchitecture #solid #webApi #entityFramework #aspNetCoreIdentity #mediatr #jetbrainsRider #postgreSql #ajax #nTierArchitecture #git  </h3>
 
-- 📫 How to reach me **barisggun@gmail.com**
-- My online projects: www.sinesozluk.com , www.benitaniyormusun.site
+# about me
+
+istanbul, backend developer, 1 year experience, istanbul university electronic communication technology, acunmedya academy extended software expertise
+
+
+## language and tools
+* c#
+* sql
+* solid principles
+* git
+* .net core mvc
+* web api
+* oop
+* onion architecture
+* cqrs
+* mediatr
+* asp.net core identity
+* postgresql
+* jetbrains rider
+* visual studio
+* ajax
+
+  
+## my live projects
+
+**Sinesozluk**
+
+We created and launched a movie review site where
+people can comment, rate and add to their watch lists.
+
+[Sinesozluk.com](https://sinesozluk.com)
+
+
+**BeniTaniyorMusun**
+
+This site is the final project of the Next Level .NET
+Bootcamp organized by the Techcareer.net platform.
+The aim of the project is to create surveys that users can
+share with their friends and collect their answers. I am
+responsible for all backend and frontend development.
+
+[Benitaniyormusun.site](https://benitaniyormusun.site)
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
