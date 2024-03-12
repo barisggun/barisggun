@@ -1,5 +1,5 @@
 
-## about me
+## about me , i am open for job opportunities
 
 istanbul, backend developer, 1 year experience, istanbul university electronic communication technology, acunmedya academy extended software expertise
 
