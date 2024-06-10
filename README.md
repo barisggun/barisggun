@@ -3,42 +3,21 @@
 istanbul, .NET developer
 
 ## language and tools
-* c# * sql * solid 
-* git
-* .net core mvc
-* web api
-* oop
-* onion architecture
-* cqrs
-* mediatr
-* asp.net core identity
-* postgresql
-* jetbrains rider
-* visual studio
-* ajax
-
+* c#, .net core, sql, oop, solid, git, .net core mvc, web api, entity framework, onion architecture, n-tier architecture, microservice architecture, cqrs, mediatr, .net core identity, docker, rabbitmq, ajax
   
 ## my live projects
-
 **Sinesozluk**
-
 We created and launched a movie review site where
 people can comment, rate and add to their watch lists.
-
 [Sinesozluk.com](https://sinesozluk.com)
 
-
 **BeniTaniyorMusun**
-
 This site is the final project of the Next Level .NET
 Bootcamp organized by the Techcareer.net platform.
 The aim of the project is to create surveys that users can
 share with their friends and collect their answers. I am
 responsible for all backend and frontend development.
-
 [Benitaniyormusun.site](https://benitaniyormusun.site)
-
-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
