@@ -3,11 +3,15 @@
 istanbul, .NET developer
 
 ## language and tools
-* c# - .net core -  sql -  oop -  solid - git -  .net core mvc -  web api 
-* entity framework -  onion architecture -  n-tier architecture -  microservice architecture
-* cqrs -  mediatr -  .net core identity -
-* rabbitmq - docker - ajax
-  
+* sql - solid - oop - git
+* c# - .net core mvc - web api
+* entity framework, identity
+* onion architecture - n-tier architecture - microservice architecture
+* cqrs - mediatr
+* rabbitmq - docker - signalR
+* ajax
+* jetbrains rider, visual studio
+
 ## my live projects
 **Sinesozluk**
 We created and launched a movie review site where
