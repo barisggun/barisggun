@@ -1,13 +1,9 @@
 
-## about me , i am open for job opportunities
-
-istanbul, .NET developer, istanbul university electronic communication technology, acunmedya academy extended software expertise
-
+## about me, i am open for job opportunities
+istanbul, .NET developer
 
 ## language and tools
-* c#
-* sql
-* solid principles
+* c# * sql * solid 
 * git
 * .net core mvc
 * web api
