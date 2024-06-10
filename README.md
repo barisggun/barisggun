@@ -1,5 +1,5 @@
 
-## about me, i am open for job opportunities
+## about me
 istanbul, .NET developer
 
 ## language and tools
@@ -10,7 +10,7 @@ istanbul, .NET developer
 * cqrs - mediatr
 * rabbitmq - docker - signalR
 * ajax
-* jetbrains rider, visual studio
+* jetbrains rider, visual studio, postman
 
 ## my live projects
 **Sinesozluk**
