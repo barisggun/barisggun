@@ -3,7 +3,10 @@
 istanbul, .NET developer
 
 ## language and tools
-* c#, .net core, sql, oop, solid, git, .net core mvc, web api, entity framework, onion architecture, n-tier architecture, microservice architecture, cqrs, mediatr, .net core identity, docker, rabbitmq, ajax
+* c# - .net core -  sql -  oop -  solid - git -  .net core mvc -  web api 
+* entity framework -  onion architecture -  n-tier architecture -  microservice architecture
+* cqrs -  mediatr -  .net core identity -
+* rabbitmq - docker - ajax
   
 ## my live projects
 **Sinesozluk**
