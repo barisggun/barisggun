@@ -24,7 +24,7 @@ Bootcamp organized by the Techcareer.net platform.
 The aim of the project is to create surveys that users can
 share with their friends and collect their answers. I am
 responsible for all backend and frontend development.
-[Benitaniyormusun.site](https://benitaniyormusun.site)
+[Benitaniyormusun.site](https://benitaniyormusun.blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
