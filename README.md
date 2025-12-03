@@ -1,6 +1,6 @@
 
 ## about me
-istanbul, .NET developer
+backend dev
 
 ## language and tools
 * sql - solid - oop - git
