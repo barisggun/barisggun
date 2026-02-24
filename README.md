@@ -16,7 +16,7 @@ backend dev
 **Sinesozluk**
 We created and launched a movie review site where
 people can comment, rate and add to their watch lists.
-[Sinesozluk.com](https://sinesozluk.com)
+[Sinesozluk.com](https://sinesozluk.blog)
 
 **BeniTaniyorMusun**
 This site is the final project of the Next Level .NET
